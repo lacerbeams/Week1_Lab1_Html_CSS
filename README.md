@@ -1,5 +1,4 @@
-# Build You Portfolio site
-* Use HTML/CSS*
+# Build You Portfolio site using HTML/CSS
 
 ## GOALS
 - Project introduction and setup. Start with the basics such as creating a 
@@ -12,7 +11,7 @@ body elements, add metadata
 
 # Requirements
 - Structure a basic HTML page using a "doctype" and the <html>,<head>, and <body> elements.
-- Use common HTML elements: <img>, <h1>...<h6>, <p>, <span>, <a>, <ul> & <ol>, <li>, <!--…-->, and <div>.
+- Use common HTML elements: "<img>, <h1>...<h6>, <p>, <span>, <a>, <ul> & <ol>, <li>, <!--…-->, and <div>"
 - Use inline, block, and inline-block
 - Use class and id selectors
 - Apply styles to specific elements by selecting elements with classes and id
@@ -24,10 +23,10 @@ Chrome's Dev Tools are one of the nicest things to ever happen to developers. Th
 Google is youe best friend
 
 # Resources 
-- *(HTML Reference)[http://www.w3schools.com/TAGs/]*
-- *(HTML|MDN)[https://developer.mozilla.org/en-US/docs/Web/HTML]*
-- *(CSS|MDN)[https://developer.mozilla.org/en-US/docs/Web/CSS]*
-- *(CSS Reference)[http://www.w3schools.com/cssref/]*
-- *(Basic HTML and CSS one-page portfolio)[http://tutorialzine.com/2010/02/html5-css3-website-template/]*
-- *(Sleek Portfolio)[https://code.tutsplus.com/tutorials/build-a-sleek-portfolio-site-from-scratch--net-16]*
+- *[HTML Reference](http://www.w3schools.com/TAGs/)*
+- *[HTML|MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)*
+- *[CSS|MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)*
+- *[CSS Reference](http://www.w3schools.com/cssref/)*
+- *[Basic HTML and CSS one-page portfolio](http://tutorialzine.com/2010/02/html5-css3-website-template/)*
+- *[Sleek Portfolio](https://code.tutsplus.com/tutorials/build-a-sleek-portfolio-site-from-scratch--net-16)*
 
