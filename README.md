@@ -5,7 +5,7 @@
 site map and opening your first HTML document
 - HTML Fundamentals. Learn how to use HTML tags to structure your page, add
 body elements, add metadata
-- Connect our pages
+- Create and connect pages
 - Lets add pizzazz and personality by adding design and style with CSS
 - Learn troubleshooting techniques
 
@@ -18,7 +18,7 @@ body elements, add metadata
 - Apply a set of style to children of a specific class or tag
 - Adhere to the Box model- use margin, border, content-sizing and padding
 
-# Tip
+# Tips
 - Chrome's Dev Tools are one of the nicest things to ever happen to developers. This is because we can alter our webpages while viewing them in the browser!
 - Google is your best friend
 
