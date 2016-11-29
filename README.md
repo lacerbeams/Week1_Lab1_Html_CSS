@@ -10,7 +10,7 @@ body elements, add metadata
 - Learn troubleshooting techniques
 
 # Requirements
-- Structure a basic HTML page using a "doctype" and the <html>,<head>, and <body> elements.
+- Structure a basic HTML page using a **"doctype" and the html, head, and body** elements.
 - Use common HTML elements: **img, h1...h6, p, span, a, ul & ol, li, comment tag, and div**
 - Use inline, block, and inline-block
 - Use class and id selectors
