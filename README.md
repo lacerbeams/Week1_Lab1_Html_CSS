@@ -19,8 +19,8 @@ body elements, add metadata
 - Adhere to the Box model- use margin, border, content-sizing and padding
 
 # Tip
-Chrome's Dev Tools are one of the nicest things to ever happen to developers. This is because we can alter our webpages while viewing them in the browser!
-Google is youe best friend
+- Chrome's Dev Tools are one of the nicest things to ever happen to developers. This is because we can alter our webpages while viewing them in the browser!
+- Google is your best friend
 
 # Resources 
 - *[HTML Reference](http://www.w3schools.com/TAGs/)*
