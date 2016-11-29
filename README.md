@@ -7,11 +7,11 @@ site map and opening your first HTML document
 body elements, add metadata
 - Connect our pages
 - Lets add pizzazz and personality by adding design and style with CSS
-- Troubleshooting
+- Learn troubleshooting techniques
 
 # Requirements
 - Structure a basic HTML page using a "doctype" and the <html>,<head>, and <body> elements.
-- Use common HTML elements: "<img>, <h1>...<h6>, <p>, <span>, <a>, <ul> & <ol>, <li>, <!--…-->, and <div>"
+- Use common HTML elements: img, h1...h6, p, span, a, ul & ol, li, comment tag, and div"
 - Use inline, block, and inline-block
 - Use class and id selectors
 - Apply styles to specific elements by selecting elements with classes and id
