@@ -23,6 +23,7 @@ body elements, add metadata
 - Google is your best friend
 
 # Resources 
+- *[Checkout these sample portfolios](http://htmlinspiration.com/websites/personal-portfolio/23/)*
 - *[HTML Reference](http://www.w3schools.com/TAGs/)*
 - *[HTML|MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)*
 - *[CSS|MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)*
