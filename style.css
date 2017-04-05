@@ -1,12 +1,29 @@
-/* Remove the navbar's default margin-bottom and rounded borders */
-.navbar {
-  margin-bottom: 0;
-  border-radius: 0;
+body {
+  background: #483f66;
+  color: white;
+  font-family: 'Arsenal', sans-serif;
 }
+
+
+.jumbotron {
+  background-image: url('assets/northern-lights-banner.png');
+  /*background-size: 100%;*/
+  background-repeat: no-repeat;
+  -webkit-mask-image:-webkit-gradient(linear, left top, left bottom, from(rgba(0,0,0,1)), to(rgba(0,0,0,0)))
+}
+
+#home {
+  color: black;
+}
+
+/*#banner {
+  width: 100%;
+}*/
 
 /* Add a gray background color and some padding to the footer */
 footer {
-  background-color: #f2f2f2;
+  background: #483f66;
+  color: white;
   padding: 25px;
 }
 
@@ -26,4 +43,15 @@ ul {
   font-size: 75px;
 }
 
+.subhead {
+  font-family: 'Lobster Two', cursive;
+}
+
+#my-name {
+  font-family: 'Arsenal', sans-serif;
+}
+
+.devicons {
+  margin-bottom: 40px;
+}
 
